@@ -7,6 +7,4 @@ Solutions can be found in the `solution` branch.
 
 # What I Ate For Breakfast
 
-1. Pad See Ew
-2. Green Machine Naked
-3. Sandwich
+1. Food
